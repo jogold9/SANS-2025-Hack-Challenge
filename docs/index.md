@@ -9,24 +9,24 @@ For most of the challenges I went from a starting point of ignorance, progressed
 
 I hope you enjoyed the event as much as I did.     
 ## Answers
-!!! success "1. Intro to Nmap - :fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+1. Intro to Nmap
     [Answer](./objectives/o1.md)
 
-!!! success "2. Going in Reverse - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+2. Going in Reverse
     [Answer](./objectives/o2.md)
 
-!!! success "3. IDORable Bistro - :fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+3. IDORable Bistro
     [Answer](./objectives/o3.md) 
 
-!!! success "4. Quantingnome Leap -  :fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+4. Quantingnome Leap
     [Answer](./objectives/o4.md) 
 
-!!! success "5. Rogue Gnome Identity Provider -  :fontawesome-solid-star::fontawesome-solid-star::fontawesome-regular-star::fontawesome-regular-star::fontawesome-regular-star:"
+5. Rogue Gnome Identity Provider
     [Answer](./objectives/o5.md) 
 
 ## Conclusion
 
-!!! Abstract "Summary Verse"
+<b>Executive Summary</b><BR>
 	In the SANS Hack Challenge, <BR>
 	we test our mettle. <BR>
 	Year in and year out, <BR>
