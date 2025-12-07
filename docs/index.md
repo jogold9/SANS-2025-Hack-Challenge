@@ -26,7 +26,7 @@ I hope you enjoyed the event as much as I did.
 
 ## Conclusion
 
-<b>Executive Summary</b><BR>
+<BR>
 	In the SANS Hack Challenge, <BR>
 	we test our mettle. <BR>
 	Year in and year out, <BR>
