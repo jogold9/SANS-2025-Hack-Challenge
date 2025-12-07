@@ -1,6 +1,6 @@
 # Welcome
 
-![Group XMas photo](./img/misc/title_image.png width=45%; margin=auto)
+![Group XMas photo](./img/misc/title_image.png)
 
 ## Introduction
 Hello, My name is Josh Gold, and I'm a security professional based out of Portland, Oregon.   I discuss five of the 2025 Holiday Hack Challenge objectives below.  For each I will include a summary of the challenge, my thought process and a solution overview including screen captures.  <br>
