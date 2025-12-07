@@ -9,19 +9,19 @@ For most of the challenges I went from a starting point of ignorance, progressed
 
 I hope you enjoyed the event as much as I did.     
 ## Answers
-1. Intro to Nmap
+1. Intro to Nmap:
     [Answer](./objectives/o1.md)
 
-2. Going in Reverse
+2. Going in Reverse:
     [Answer](./objectives/o2.md)
 
-3. IDORable Bistro
+3. IDORable Bistro:
     [Answer](./objectives/o3.md) 
 
-4. Quantingnome Leap
+4. Quantingnome Leap:
     [Answer](./objectives/o4.md) 
 
-5. Rogue Gnome Identity Provider
+5. Rogue Gnome Identity Provider:
     [Answer](./objectives/o5.md) 
 
 ## Conclusion
